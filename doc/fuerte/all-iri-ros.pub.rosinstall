@@ -55,3 +55,9 @@
 - svn:
     uri: http://devel.iri.upc.edu/pub/labrobotica/ros/iri-ros-pkg/stacks/iri_visual_servo/trunk
     local-name: iri_visual_servo
+- svn:
+    uri: http://devel.iri.upc.edu/pub/labrobotica/ros/iri-ros-pkg/stacks/iri_pioneer/trunk
+    local-name: iri_pioneer
+- svn:
+    uri: http://devel.iri.upc.edu/pub/labrobotica/ros/iri-ros-pkg/stacks/helena_robot/trunk
+    local-name: helena_robot
